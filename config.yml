@@ -1,7 +1,7 @@
 ## Example Config file
-baseURL: "https://manishlamichhane.github.io"
+baseURL: "https://9radiopassive0.github.io"
 theme: "terminalcv"
-title: "Manish Lamichhane's CV"
+title: "Lamichhane's CV"
 
 params:
   version: '2.0.0'
@@ -29,11 +29,6 @@ params:
       text: ": "
       color: 'orange'
 
-  # promptColor: grey
-  # promptSimbols: ":~$"
-  # promptSimbolsColor: grey
-  # startxLocation: https://example.com
-  # useLess: true
   exitLocation: 'about:blank'
   source: true
   #use a ‎ (blank character) if your first character of the ascii art is a whitespace
@@ -61,7 +56,7 @@ params:
       profession: "Backend Enginner + DevOps"
       location: "Germany, Earth"
       email: "manishlamichhane@gmail.com"
-      homelink: "https://manishlamichhane.github.io"
+      homelink: "https://9radiopassive0.github.io"
       description: |
               ----
 
